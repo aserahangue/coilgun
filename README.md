@@ -16,8 +16,9 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 | Controller | ESP32 |
 | Maximum Velocity | 40 m/s (90 mph) |
 
+⚠ For safety reasons, I'm not sharing any schematics.
+
 ---
-deee
 
 ## PCB Design
 
@@ -28,8 +29,11 @@ I started off by grouping most of the components by function around their IC, ac
 
 <img width="2409" height="1312" alt="PCB editing - Final stage routing" src="https://github.com/user-attachments/assets/b6e4efb9-2f37-45b7-8a9f-2122811429c9" />
 
-Here's how the final PCB looks like.
+Here's how the final PCB looks like (top, middle-1, bottom)
 <img width="5457" height="2130" alt="PCB_COILGUN_V1 0_RevA" src="https://github.com/user-attachments/assets/db2a6016-43cb-447c-82a7-48b03ea57f8f" />
+<img width="1124" height="491" alt="Coilgun PCB Top" src="https://github.com/user-attachments/assets/3b5073a1-6b0b-4d43-99d2-ea29bcd040d3" />
+<img width="1125" height="490" alt="Coilgun PCB Mid1" src="https://github.com/user-attachments/assets/b7c04407-c009-4ec4-95d6-9e9391f53fc1" />
+<img width="1123" height="491" alt="Coilgun PCB Bot" src="https://github.com/user-attachments/assets/8e3d5ea3-7eee-40ce-baee-e749250721c2" />
 
 
 

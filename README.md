@@ -9,7 +9,7 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 | Category | Specification |
 |:---------|:--------------|
 | Project Duration | 18 months |
-| Energy Storage | 2x 548 J (6200 µF @ 420 V) |
+| Energy Storage | 2 × 548 J (6200 µF @ 420 V) |
 | Charging System | Dual 500 W flyback converters |
 | Battery | Custom 10S2P Li-ion pack |
 | Peak Current | >300 A |

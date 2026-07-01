@@ -1,6 +1,7 @@
 # 2-stages Electromagnetic Gun
 
-![Overview](images/overview.jpg)
+<img width="904" height="511" alt="Fusion360 - Coilgun 3D design (half)" src="https://github.com/user-attachments/assets/cd66c6b0-bbf0-42b3-9d6a-43903eeccddc" />
+
 
 ## Overview
 
@@ -28,13 +29,12 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 Three PCB's are used: 1st & 2nd host power supplies, controller and charging/firing system, and 3rd is the BMS.
 The two main PCB's are long rectangles. I chose to keep them tied for manufacturing, so I reduced the costs.
 I started off by grouping most of the components by function around their IC, according to their recommanded layout:
-<img width="1615" height="1078" alt="Capture d&#39;écran 2025-04-20 171542" src="https://github.com/user-attachments/assets/f9747d3e-53fb-4c2a-a0ad-310ad99a1de2" />
-<img width="1903" height="1316" alt="Capture d&#39;écran 2025-04-21 004925" src="https://github.com/user-attachments/assets/ebc82656-5912-4302-a4ea-6dceed56eb97" />
+<img width="1903" height="1316" alt="PCB editing - Grouping components" src="https://github.com/user-attachments/assets/ebc82656-5912-4302-a4ea-6dceed56eb97" />
 
-<img width="2409" height="1312" alt="Final stage routing" src="https://github.com/user-attachments/assets/b6e4efb9-2f37-45b7-8a9f-2122811429c9" />
+<img width="2409" height="1312" alt="PCB editing - Final stage routing" src="https://github.com/user-attachments/assets/b6e4efb9-2f37-45b7-8a9f-2122811429c9" />
 
 Here's how the final PCB looks like. I chose 
-<img width="2413" height="1313" alt="Capture d&#39;écran 2025-05-12 003320" src="https://github.com/user-attachments/assets/15b95ab1-c4ca-4632-bf9f-307202ce78a9" />
+<img width="2413" height="1313" alt="PCB editing - Final PCB 3D view" src="https://github.com/user-attachments/assets/15b95ab1-c4ca-4632-bf9f-307202ce78a9" />
 
 
 ---

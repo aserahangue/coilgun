@@ -34,8 +34,8 @@ Weeks after, here's how the final PCB looks like:
 <img width="5457" height="2130" alt="PCB_COILGUN_V1 0_RevA" src="https://github.com/user-attachments/assets/5a1c153d-648e-4dde-9daa-d003ec5140ef" />
 
 With the completed routing (layers Top & Middle-1):
-<img width="1124" height="491" alt="Coilgun PCB Top" src="https://github.com/user-attachments/assets/3b5073a1-6b0b-4d43-99d2-ea29bcd040d3" />
-<img width="1125" height="490" alt="Coilgun PCB Mid1" src="https://github.com/user-attachments/assets/b7c04407-c009-4ec4-95d6-9e9391f53fc1" />
+<img width="1133" height="493" alt="Coilgun PCB Top" src="https://github.com/user-attachments/assets/a5d324cb-e90b-4029-b14e-254d5d7f5301" />
+<img width="1133" height="493" alt="Coilgun PCB Mid1" src="https://github.com/user-attachments/assets/f9a05369-f856-4ce3-b21d-89e8c1a4f438" />
 
 ---
 

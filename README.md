@@ -12,7 +12,7 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 | Projectile | Ø4.9 × 60 mm headless steel pin |
 | Energy Storage | 2 × 548 J (6200 µF @ 420 V) |
 | Charging System | Dual 500 W flyback converters |
-| Charging time | < 7 s |
+| Capacitor Charging time | < 7 s |
 | Peak Discharge Current | ≈ 300 A |
 | Battery | Custom 10S2P Li-ion pack |
 | Controller | ESP32 |

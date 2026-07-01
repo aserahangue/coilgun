@@ -9,8 +9,8 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 | Category | Specification |
 |:---------|:--------------|
 | Project Duration | 18 months |
-| Energy Storage | 2 kJ (450 V, 6200 µF) |
-| Charging System | Dual 1 kW flyback converters |
+| Energy Storage | 2x 548 J (6200 µF @ 420 V) |
+| Charging System | Dual 500 W flyback converters |
 | Battery | Custom 10S2P Li-ion pack |
 | Peak Current | >300 A |
 | Controller | ESP32 |
@@ -22,27 +22,29 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 
 ## PCB Design
 
-Three PCB's are used: 1st & 2nd host power supplies, controller and charging/firing system, and 3rd is the BMS.
-The two main PCB's are long rectangles. I chose to keep them tied for manufacturing, so I reduced the costs.
-I started off by grouping most of the components by function around their IC, according to their recommanded layout:
+Three PCB's are used:
+- 1 & 2: host power supplies (+24V_TRANSF @ 1 kW, +12V, +12V_ISO, +5V, +3V3), microcontroller and charging/firing system. It's actually two PCBs in one, to reduce manufacturing costs.
+- 3: 10S2P BMS.
+
+I started off by grouping most of the components by function, according to their recommanded layout and expected orientation:
 <img width="1903" height="1316" alt="PCB editing - Grouping components" src="https://github.com/user-attachments/assets/ebc82656-5912-4302-a4ea-6dceed56eb97" />
 
-Here's how the final PCB looks like:
+Weeks after, here's how the final PCB looks like:
 <img width="5457" height="2130" alt="PCB_COILGUN_V1 0_RevA" src="https://github.com/user-attachments/assets/db2a6016-43cb-447c-82a7-48b03ea57f8f" />
 
 With the completed routing (layers Top & Middle-1):
 <img width="1124" height="491" alt="Coilgun PCB Top" src="https://github.com/user-attachments/assets/3b5073a1-6b0b-4d43-99d2-ea29bcd040d3" />
 <img width="1125" height="490" alt="Coilgun PCB Mid1" src="https://github.com/user-attachments/assets/b7c04407-c009-4ec4-95d6-9e9391f53fc1" />
 
-
-
 ---
 
 ## Mechanical Design
 
 After exporting STEP file of the 2 tied PCB, I split then uploaded them in Fusion360, so I can adjust the 3D design.
-I also printed them out (fully assembled) before putting into fabrication, to ensure a perfect integration.
 <img width="941" height="494" alt="Fusion360 - PCB in 3D design" src="https://github.com/user-attachments/assets/09884cce-3f6e-4364-9156-f6fc9d529ca9" />
+
+I also printed them out (fully assembled) before putting into fabrication, to ensure a perfect integration.
+<img width="702" height="365" alt="3D printed PCBs" src="https://github.com/user-attachments/assets/cd3b5b19-308c-4afe-9b7c-3fbc1caadd7b" />
 
 ## Technical Challenges
 

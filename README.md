@@ -6,16 +6,16 @@
 
 This project is a fully custom two-stage electromagnetic launcher designed to explore high-power electronics, embedded systems, and mechanical design.
 
-| Category | Specification |
+| Specification | Value |
 |:---------|:--------------|
+| Maximum Velocity | 40 m/s (90 mph) |
+| Projectile | Ø4.9 × 60 mm headless steel pin |
 | Energy Storage | 2 × 548 J (6200 µF @ 420 V) |
 | Charging System | Dual 500 W flyback converters |
 | Charging time | < 7 s |
-| Battery | Custom 10S2P Li-ion pack |
 | Peak Discharge Current | ≈ 300 A |
+| Battery | Custom 10S2P Li-ion pack |
 | Controller | ESP32 |
-| Projectile | Ø4.9 × 60 mm headless steel pin |
-| Maximum Velocity | 40 m/s (90 mph) |
 
 ⚠ For safety reasons, the design files are not publicly available.
 

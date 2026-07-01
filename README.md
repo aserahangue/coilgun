@@ -1,6 +1,6 @@
 # 2-stages Electromagnetic Gun
 
-<img width="904" height="511" alt="Fusion360 - Coilgun 3D design (half)" src="https://github.com/user-attachments/assets/cd66c6b0-bbf0-42b3-9d6a-43903eeccddc" />
+<img width="904" height="511" alt="Fusion360 - Coilgun 3D design (left side)" src="https://github.com/user-attachments/assets/cd66c6b0-bbf0-42b3-9d6a-43903eeccddc" />
 
 ## Overview
 
@@ -16,7 +16,7 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 | Controller | ESP32 |
 | Maximum Velocity | 40 m/s (90 mph) |
 
-⚠ For safety reasons, I'm not sharing any schematics.
+⚠ For safety reasons, I'm not sharing any schematics. ⚠
 
 ---
 
@@ -27,13 +27,12 @@ The two main PCB's are long rectangles. I chose to keep them tied for manufactur
 I started off by grouping most of the components by function around their IC, according to their recommanded layout:
 <img width="1903" height="1316" alt="PCB editing - Grouping components" src="https://github.com/user-attachments/assets/ebc82656-5912-4302-a4ea-6dceed56eb97" />
 
-<img width="2409" height="1312" alt="PCB editing - Final stage routing" src="https://github.com/user-attachments/assets/b6e4efb9-2f37-45b7-8a9f-2122811429c9" />
-
-Here's how the final PCB looks like (top, middle-1, bottom)
+Here's how the final PCB looks like:
 <img width="5457" height="2130" alt="PCB_COILGUN_V1 0_RevA" src="https://github.com/user-attachments/assets/db2a6016-43cb-447c-82a7-48b03ea57f8f" />
+
+With the completed routing (layers Top & Middle-1):
 <img width="1124" height="491" alt="Coilgun PCB Top" src="https://github.com/user-attachments/assets/3b5073a1-6b0b-4d43-99d2-ea29bcd040d3" />
 <img width="1125" height="490" alt="Coilgun PCB Mid1" src="https://github.com/user-attachments/assets/b7c04407-c009-4ec4-95d6-9e9391f53fc1" />
-<img width="1123" height="491" alt="Coilgun PCB Bot" src="https://github.com/user-attachments/assets/8e3d5ea3-7eee-40ce-baee-e749250721c2" />
 
 
 

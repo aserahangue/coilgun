@@ -46,12 +46,14 @@ After exporting the STEP model of the combined PCB, I split it into two separate
 I also printed them out (fully assembled) before putting into fabrication, to ensure a perfect integration.
 <img width="702" height="365" alt="3D printed PCBs" src="https://github.com/user-attachments/assets/cd3b5b19-308c-4afe-9b7c-3fbc1caadd7b" />
 
-## Technical Challenges
+## Software
 
-- Designed a 450 V capacitor charging system using dual flyback converters.
-- Developed a custom 10S2P Li-ion battery pack with dedicated BMS.
-- Designed high-current IGBT switching stages handling peak currents above 300 A.
-- Developed ESP32-based control electronics and firmware.
-- Designed all PCBs and mechanical assemblies from scratch.
+The firmware was written in C++. It is relatively straightforward, as most of the system functionality, including the safety features, is handled directly by the hardware.
+
+Its main responsibilities include:
+- User interface (buttons, LEDs, and I²C displays),
+- Safety monitoring (watchdog, temperature monitoring, and communication with the BMS),
+- Projectile timing (IGBT activation/deactivation and laser-based velocity measurement).
+
 
 ---

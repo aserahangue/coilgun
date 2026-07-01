@@ -40,7 +40,7 @@ With the completed routing (layers Top & Middle-1):
 
 ## Mechanical Design
 
-After exporting STEP file of the 2 tied PCB, I split then uploaded them in Fusion360, so I can adjust the 3D design.
+After exporting the STEP model of the combined PCB, I split it into two separate boards and imported them into the cannon's 3D model to optimize the mechanical design.
 <img width="941" height="494" alt="Fusion360 - PCB in 3D design" src="https://github.com/user-attachments/assets/09884cce-3f6e-4364-9156-f6fc9d529ca9" />
 
 I also printed them out (fully assembled) before putting into fabrication, to ensure a perfect integration.

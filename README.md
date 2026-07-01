@@ -31,7 +31,7 @@ I started off by grouping most of the components by function, according to their
 <img width="1903" height="1316" alt="PCB editing - Grouping components" src="https://github.com/user-attachments/assets/ebc82656-5912-4302-a4ea-6dceed56eb97" />
 
 Weeks after, here's how the final PCB looks like:
-<img width="5457" height="2130" alt="PCB_COILGUN_V1 0_RevA" src="https://github.com/user-attachments/assets/db2a6016-43cb-447c-82a7-48b03ea57f8f" />
+<img width="5457" height="2130" alt="PCB_COILGUN_V1 0_RevA" src="https://github.com/user-attachments/assets/5a1c153d-648e-4dde-9daa-d003ec5140ef" />
 
 With the completed routing (layers Top & Middle-1):
 <img width="1124" height="491" alt="Coilgun PCB Top" src="https://github.com/user-attachments/assets/3b5073a1-6b0b-4d43-99d2-ea29bcd040d3" />

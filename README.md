@@ -16,7 +16,7 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 | Controller | ESP32 |
 | Maximum Velocity | 40 m/s (90 mph) |
 
-⚠ For safety reasons, I'm not sharing any schematics. ⚠
+⚠ For safety reasons, the design files are not publicly available.
 
 ---
 

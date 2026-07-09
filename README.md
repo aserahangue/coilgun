@@ -24,7 +24,7 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 ## PCB Design
 
 Three PCB's are used:
-- 1 & 2: host power supplies (+24V_TRANSF @ 1 kW, +12V, +12V_ISO, +5V, +3V3), microcontroller and charging/firing system. It's actually two PCBs in one, to reduce manufacturing costs.
+- 1 & 2: host power supplies (+24V @ 1 kW, +12V, +12V_ISO, +5V, +3V3), microcontroller and charging/firing system. It's actually two PCBs in one, to reduce manufacturing costs.
 - 3: 10S2P BMS.
 
 I started off by grouping most of the components by function, according to their recommanded layout and expected orientation:

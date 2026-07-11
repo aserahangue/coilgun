@@ -56,7 +56,7 @@ With the completed routing - layers Top & Middle-1. The only ratsnest lines left
 
 ## Mechanical Design
 
-After exporting the STEP model of the combined PCB, I split it into two separate boards and imported them into the cannon's 3D model to optimize the mechanical design.
+After exporting the STEP model of the combined PCB, I split it into two separate boards and imported them into the cannon's 3D model to refine mechanical design. (**TODO: Replace image**)
 <img width="941" height="494" alt="Fusion360 - PCB in 3D design" src="https://github.com/user-attachments/assets/09884cce-3f6e-4364-9156-f6fc9d529ca9" />
 
 I also printed fully assembled mockups before sending the PCBs for fabrication to ensure they would integrate properly:

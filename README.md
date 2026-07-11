@@ -34,6 +34,7 @@ The entire system is powered by a custom 10S2P lithium-ion battery pack capable 
 
 <img width="986" height="602" alt="Capture d&#39;écran 2026-07-11 015324" src="https://github.com/user-attachments/assets/168abf07-ee99-4427-a56e-ea17d21e38a3" />
 
+---
 
 ## PCB Design
 
@@ -51,6 +52,8 @@ With the completed routing - layers Top & Middle-1. The only ratsnest lines left
 <img width="1133" height="493" alt="Coilgun PCB Top" src="https://github.com/user-attachments/assets/a5d324cb-e90b-4029-b14e-254d5d7f5301" />
 <img width="1133" height="493" alt="Coilgun PCB Mid1" src="https://github.com/user-attachments/assets/f9a05369-f856-4ce3-b21d-89e8c1a4f438" />
 
+---
+
 ## Mechanical Design
 
 After exporting the STEP model of the combined PCB, I split it into two separate boards and imported them into the cannon's 3D model to optimize the mechanical design.
@@ -58,6 +61,8 @@ After exporting the STEP model of the combined PCB, I split it into two separate
 
 I also printed fully assembled mockups before sending the PCBs for fabrication to ensure they would integrate properly:
 <img width="953" height="433" alt="image" src="https://github.com/user-attachments/assets/67953338-5eba-4e81-b9dd-1627ac1ecab4" />
+
+---
 
 ## Software
 

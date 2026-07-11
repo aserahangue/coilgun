@@ -4,7 +4,8 @@
 
 ## Overview
 
-This project is a fully custom two-stage electromagnetic launcher designed to explore high-power electronics, embedded systems, and mechanical design.
+A childhood ambition turned into an engineering project focused on high-power electronics and embedded systems.
+
 
 | Specification | Value |
 |:---------|:--------------|

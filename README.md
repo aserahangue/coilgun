@@ -25,9 +25,9 @@ This project is a fully custom two-stage electromagnetic launcher designed to ex
 
 The coilgun relies on several power rails, including:
 
-- A conventional power rail for the MCU and user interface (+12 V, +5 V, +3.3 V)
-- An isolated +12 V supply for capacitor voltage measurements
-- A 1 kW buck converter supplying both capacitor chargers
+- A conventional power rail for the MCU and user interface (+12 V, +5 V, +3.3 V),
+- An isolated +12 V supply for capacitor voltage measurements,
+- A 1 kW buck converter supplying both capacitor chargers.
 
 The entire system is powered by a custom 10S2P lithium-ion battery pack capable of delivering 20 A continuously.
 
